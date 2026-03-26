@@ -1,12 +1,12 @@
 # Sara Macedo 👋
 
 
-- 🎓 **Estudante Engenharia de Software** pela [UCS](https://www.ucs.br/site).
-- 🎓 **Analise** pelo [SENAI](https://www.senairs.org.br/), em menor aprendiz.
+- 🎓💻 **Estudante Engenharia de Software** pela UCS.
+- 🎓 **Analise de Desenvolvimento de Sistemas** pelo SENAI, em menor aprendiz.
   
 
 ## 🚀 Conhecimentos
-[![My Skills](https://skillicons.dev/icons?i=html,css,c#,javascript,,c)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c##,APIs,c)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,git,github)](https://skillicons.dev)<br><br>
