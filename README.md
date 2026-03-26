@@ -1,16 +1,24 @@
-## Hi there 👋
+# Sara Macedo 👋
 
-<!--
-**SaraVictoria28/SaraVictoria28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 **Estudante Engenharia de Software** pela [UCS](https://www.ucs.br/site).
+- 🎓 **Analise** pelo [SENAI](https://www.senairs.org.br/), em menor aprendiz.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Conhecimentos
+[![My Skills](https://skillicons.dev/icons?i=html,css,c#,javascript,,c)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,git,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-{kamillerocha0704002@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamille-rocha-37958a307)<br><br>
+
+## 📌 Linguagens mais usadas
+
+<div>
+<a href="https://github.com/Kamille07-dev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamille07-dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
